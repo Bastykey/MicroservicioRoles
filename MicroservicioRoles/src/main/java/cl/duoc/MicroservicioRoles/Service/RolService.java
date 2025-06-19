@@ -1,5 +1,5 @@
 package cl.duoc.MicroservicioRoles.Service;
 
-public class ServiceRol {
+public class RolService {
 
 }
